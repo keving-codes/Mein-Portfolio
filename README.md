@@ -8,7 +8,7 @@ Dieses Projekt ist ein persönliches Web-Portfolio, entwickelt mit:
 
 ## Features
 
-- Responsives Layout (Mobile First)
+- Responsives Layout
 - Clean Design mit Space Grotesk Font
 - Codebereit für Erweiterung durch Komponenten
 
